@@ -53,6 +53,23 @@
 
 
 
+// let words = ["first", "succeed", "again"];
+// let sentence = "If at _ you don’t _, try, try _.";
+
+// function sent(words,sent) {
+//   let j = 0
+//   for (let i = 0; i < sent.length; i++) {
+//     if (sent[i] === "_") {
+//       sent[i] = words[j]
+//       j++
+//     }
+//   }
+//   return sent.join("")
+// }
+// console.log(sent(words,sentence.split("")))
+
+
+
 
 // 4. Ունենք հետևյալ բազմաչափ զանգվածը` [4, -2, 3, 9, 2, 6, -8, 12]։ Գրել ֆունկցիա, որը տրված զանգվածից կհեռացնի բացասականները և կսորտավորի դրականները։ Վերադարցնել սորտավորված զանգվածը և այն տարրերը, որոնք հեռացվել են զանգվածից։ Պատասխան՝
 // Sorted array: [2,3,4,6,9,12]
